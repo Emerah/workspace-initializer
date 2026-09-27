@@ -37,4 +37,4 @@ Other existing workspace files are preserved and committed when Git does not ign
 
 ## How to install
 
-download repository and copy `ws-init` skill directory to `/Users/emerah/.agents/skills`
+download repository and copy `ws-init` skill directory to `/Users/`user-name`/.agents/skills`
