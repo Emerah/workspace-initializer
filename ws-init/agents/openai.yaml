@@ -1,0 +1,5 @@
+interface:
+  display_name: "Workspace Initializer"
+  short_description: "Initialize and publish a Workspace"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,38 @@
+# General build output
+build/
+dist/
+out/
+
+# Swift and Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+.npm/
+.yarn/
+coverage/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Caches and logs
+.cache/
+*.log
+logs/
+
+# Private generated files
+.env
+.env.*
+*.local
+.tmp/
